@@ -1,0 +1,8 @@
+Course Directory Setup Doc:
+
+Defaults:.Syllabus,Notes,Lecture_Videos
+
+Course: ECE 2130 - changing a light bulb
+Assignments: 5
+Labs: 3
+Midterms: 2
